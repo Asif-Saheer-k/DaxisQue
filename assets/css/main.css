@@ -705,7 +705,7 @@ ul {
   color: var(--pb-color-common-white);
 }
 .section-heading.heading-2 {
-  margin-bottom: 30px;
+  margin-bottom: 53px;
 }
 .section-heading.heading-2 .section-title {
   margin: 0;
@@ -1092,7 +1092,7 @@ START: Theme Header CSS
   }
 }
 .primary-header-inner .header-logo img {
-  max-width: 160px;
+  max-width: 190px;
 }
 .primary-header-inner .header-menu-wrap {
   display: flex !important;
