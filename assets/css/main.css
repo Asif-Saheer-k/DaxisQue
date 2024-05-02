@@ -78,7 +78,7 @@ body {
 }
 
 img {
-  max-width: 137%;
+  max-width: 170%;
 }
 
 a {
@@ -623,7 +623,7 @@ ul {
 }
 
 .section-heading {
-  margin-bottom: 55px;
+  margin-bottom: 30px;
 }
 @media only screen and (max-width: 991px) {
   .section-heading {
@@ -705,7 +705,7 @@ ul {
   color: var(--pb-color-common-white);
 }
 .section-heading.heading-2 {
-  margin-bottom: 53px;
+  margin-bottom: 25px;
 }
 .section-heading.heading-2 .section-title {
   margin: 0;
@@ -6314,7 +6314,7 @@ START: Theme Service Details CSS
 }
 
 .service-details-content .title {
-  font-size: 54px;
+  font: size 70px;px;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -6891,6 +6891,28 @@ START: Theme Footer CSS
   margin-right: 30px;
 }
 
+.scaleabc {
+  width: 80%;
+  max-width: max-content;
+}
+.scalekiosk2 {
+  width: 50%;
+  max-width: max-content;
+}
+    
+.scalekiosk3 {
+  width: 70%;
+  margin-right: 200px;
+  max-width: max-content;
+}
+.scalekiosk4 {
+  width: 50%; 
+  max-width: max-content;
+}
+.scalecaller {
+  width: 50%; 
+  max-width: max-content;
+}
 /* !END: Theme Footer CSS */
 
 /*# sourceMappingURL=main.css.map */
